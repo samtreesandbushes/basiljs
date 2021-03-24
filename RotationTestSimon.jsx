@@ -1,0 +1,1 @@
+﻿#includepath "~/Documents/;%USERPROFILE%Documents";#include "basiljs/bundle/basil.js";function draw() {  b.doc();    b.println( b.width+" x "+b.height);  for (var i = 0; i < 23; i++) {            var x = i*10;           var y = b.random(0, b.height);    var size = b.random(10, 123);    b.rect(x, y, i, size);        b.rotate(b.random(0,360));}}b.go();
