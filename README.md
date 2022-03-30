@@ -1,6 +1,6 @@
 # basiljs
 
-Generative graphic design scripts for basil.js and Indesign
+Generative graphic design scripts for basil.js / Indesign
 
 - Basic text effects 
 - Randomised rotated shapes
